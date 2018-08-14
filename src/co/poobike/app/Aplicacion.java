@@ -7,7 +7,7 @@ public class Aplicacion {
 		System.out.println("PROBANDO GIT");
 		Bicicleta bici = new Bicicleta("1324Geg6", "NEGRA");
 		
-//		bici.color = "NEGRA";
+//		bici.color = "BLANCA";
 //		bici.serial = "1324Geg6";
 		
 		System.out.println(bici.color);
